@@ -3,7 +3,7 @@ Portifólio do Desenvolvedor
 
 ## Tarefas
 
-O controle de tarefas sera realizado no GitHub
+O controle de tarefas será realizado no GitHub
 
 ## Ícones
 
